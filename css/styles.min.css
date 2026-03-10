@@ -97,7 +97,7 @@ footer a {
 }
 
 .tab-desk, .desktop, #nav-links {
-  display: none;
+  display: block;
 }
 
 .mobile h1, .mobile h3 {
@@ -302,5 +302,6 @@ label {
     grid-column: 1 / span 2;
   }
 }
+
 
 
